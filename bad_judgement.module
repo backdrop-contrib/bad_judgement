@@ -11,7 +11,7 @@
  */
 function bad_judgement($module) {
   // You've enabled _this_ module, ergo you have bad judgement.
-  return FALSE;
+  return TRUE;
 }
 
 /**

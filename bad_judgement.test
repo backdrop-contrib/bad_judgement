@@ -23,6 +23,6 @@ class GoodJudgementTestCase extends DrupalUnitTestCase {
    */
   function testGoodJudgement() {
     // Test self.
-    $this->assertTrue(bad_judgement('bad_judgement'), t('You’ve enabled <em>this</em> module, ergo you have bad judgement.'));
+    $this->assertFalse(bad_judgement('bad_judgement'), t('You’ve enabled <em>this</em> module, ergo you have bad judgement.'));
   }
 }
