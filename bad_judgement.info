@@ -4,4 +4,7 @@ name = Bad judgement
 description = Explicit dependency for modules whose usage requires bad judgement.
 package = Questionable Decision Making API
 
-core = 6.x
+core = 7.x
+files[] = bad_judgement.module
+files[] = bad_judgement.install
+files[] = bad_judgement.test
