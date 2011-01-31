@@ -1,5 +1,3 @@
-// $Id$
-
 BAD JUDGEMENT
 -------------
 

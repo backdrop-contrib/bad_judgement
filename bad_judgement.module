@@ -1,6 +1,4 @@
 <?php
-// $Id$
-
 /**
  * @file
  * Explicit dependency for modules that require bad judgement.

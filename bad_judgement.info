@@ -1,5 +1,3 @@
-; $Id$
-
 name = Bad judgement
 description = Explicit dependency for modules whose usage requires bad judgement.
 package = Questionable Decision Making API
