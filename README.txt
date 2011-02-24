@@ -12,4 +12,4 @@ CREDITS/BLAME
 
 Eaton for the inital bad idea. And EclipseGC for suggesting it to me.
 
-And, per usual, I blame crell.
+And, per usual, I blame CVS.
