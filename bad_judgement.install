@@ -11,3 +11,13 @@ function bad_judgement_enable() {
   drupal_set_message(t('The Bad Judgement module has been enabled.'));
   drupal_set_message(t('Dude. Really?'), 'error');
 }
+
+/**
+ * Implements hook_update_N() badly.
+ *
+ * @param $sandbox
+ *   @TODO: Figure out what sandbox is for.
+ */
+function bad_judgement_update_7999999(&sandbox) {
+  drupal_set_message(t('Make legolasbo a maintainer even though he did not ask for it.'));
+}
