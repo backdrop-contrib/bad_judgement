@@ -7,15 +7,7 @@
 /**
  * Test for cleaning HTML identifiers.
  */
-class GoodJudgementTestCase extends DrupalUnitTestCase {
-  public static function getInfo() {
-    return array(
-      'name' => 'Good judgement',
-      'description' => 'Test if the site administrator exhibits good judgement.',
-      'group' => 'Questionable Decision Making API',
-    );
-  }
-
+class GoodJudgementTestCase extends BackdropUnitTestCase {
   /**
    * Tests for good judgement.
    */

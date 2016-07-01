@@ -1,0 +1,5 @@
+[GoodJudgementTestCase]
+name = Bad Judgement
+description = Test if the site administrator exhibits good judgement.
+group = Questionable Decision Making API
+file = bad_judgement.test

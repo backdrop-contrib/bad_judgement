@@ -13,20 +13,8 @@ function bad_judgement($module) {
 }
 
 /**
- * Implements hook_help().
- */
-function bad_judgement_help($path, $arg) {
-  switch ($path) {
-    case 'admin/help#bad_judgement':
-      return t('Trust me. You need help.');
-  }
-}
-
-/**
  * Implements hook_system_info_alter().
  */
 function bad_judgement_system_info_alter(&$info, $file) {
-  if ($file->name == 'php') {
-    $info['dependencies'][] = 'bad_judgement';
-  }
+  // Backdrop fixed the core PHP issue, so...
 }
