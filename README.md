@@ -34,3 +34,9 @@ Credits/Blame
 * Ported to Backdrop by [David Norman](https://github.com/deekayen).
 
 And, per usual, John blames [Crell](https://www.drupal.org/u/crell).
+
+License
+-------
+
+This project is GPL v2 software. See the LICENSE.txt file in this directory for
+complete text.
