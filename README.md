@@ -17,7 +17,7 @@ Ironically, this module is actually a good idea, as it can prevent people from d
 Current Maintainer
 ------------------
 
-* David Norman (https://github.com/deekayen)
+* None
 
 Credits/Blame
 -------------
